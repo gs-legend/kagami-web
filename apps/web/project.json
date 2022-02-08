@@ -1,0 +1,8 @@
+{
+  "root": "apps/web",
+  "sourceRoot": "apps/web/src",
+  "projectType": "application",
+  "targets": {
+  },
+  "tags": []
+}

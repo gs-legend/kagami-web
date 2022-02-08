@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Root from './containers/Root';
 import './index.less';
 import reportWebVitals from './reportWebVitals';
-import Root from 'containers/Root';
 
 ReactDOM.render(
     <>
