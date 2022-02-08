@@ -1,9 +1,0 @@
-{
-  "name": "kagami-web",
-  "description": "Kagami Web",
-  "version": "2.0.0",
-  "private": true,
-  "scripts": {
-    "serve": "react-app-rewired start"
-  }
-}

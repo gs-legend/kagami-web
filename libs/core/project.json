@@ -1,9 +1,0 @@
-{
-  "root": "libs/core",
-  "sourceRoot": "libs/core/src",
-  "projectType": "library",
-  "targets": {
-  
-  },
-  "tags": []
-}
